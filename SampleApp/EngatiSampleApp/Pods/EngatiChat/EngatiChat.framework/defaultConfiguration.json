@@ -1,0 +1,17 @@
+{
+    "TextField" : {
+        "backgroundColor" : "#f7faff00",
+        "textColor" : "#000000",
+        "borderColor": "#e0e0e0",
+        "separatorColor": "#ff000000",
+        "separatorHeight": 1.0,
+        "borderWidth": 1.0,
+        "cornerRadius" : 5.0,
+        "shadowWidth": 1.0,
+        "placeholder": "",
+        "placeholderTextColor": "#0095da",
+        "helperTextColor": "#b7b7b7"
+    },
+}
+
+

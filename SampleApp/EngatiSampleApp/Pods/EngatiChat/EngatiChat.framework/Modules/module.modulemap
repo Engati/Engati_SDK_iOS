@@ -1,0 +1,11 @@
+framework module EngatiChat {
+  umbrella header "EngatiChat.h"
+
+  export *
+  module * { export * }
+}
+
+module EngatiChat.Swift {
+    header "EngatiChat-Swift.h"
+    requires objc
+}

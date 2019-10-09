@@ -1,0 +1,42 @@
+
+/* Class = "UITextField"; placeholder = "Bot Name"; ObjectID = "12y-7i-lQT"; */
+"12y-7i-lQT.placeholder" = "Bot Name";
+
+/* Class = "UITextField"; placeholder = "Chat History Limit "; ObjectID = "14d-TL-Cas"; */
+"14d-TL-Cas.placeholder" = "Chat History Limit ";
+
+/* Class = "UILabel"; text = "Bot Name:"; ObjectID = "5lk-Jh-92l"; */
+"5lk-Jh-92l.text" = "Bot Name:";
+
+/* Class = "UITextField"; placeholder = "Bot Key"; ObjectID = "6xM-yy-oDJ"; */
+"6xM-yy-oDJ.placeholder" = "Bot Key";
+
+/* Class = "UILabel"; text = "User ID:"; ObjectID = "Ew6-wi-sPy"; */
+"Ew6-wi-sPy.text" = "User ID:";
+
+/* Class = "UILabel"; text = "Launch Mode : Push"; ObjectID = "FHY-Nv-sup"; */
+"FHY-Nv-sup.text" = "Launch Mode : Push";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "Hb3-6B-vhF"; */
+"Hb3-6B-vhF.normalTitle" = "Chat";
+
+/* Class = "UILabel"; text = "Chat History Limit"; ObjectID = "Q9H-vX-NKh"; */
+"Q9H-vX-NKh.text" = "Chat History Limit";
+
+/* Class = "UILabel"; text = "RTL enabled"; ObjectID = "ZN5-2b-osR"; */
+"ZN5-2b-osR.text" = "RTL enabled";
+
+/* Class = "UITableViewSection"; headerTitle = "Bot Details"; ObjectID = "eWr-UZ-2XM"; */
+"eWr-UZ-2XM.headerTitle" = "Bot Details";
+
+/* Class = "UITextField"; placeholder = "User ID"; ObjectID = "gGp-vz-GHE"; */
+"gGp-vz-GHE.placeholder" = "User ID";
+
+/* Class = "UILabel"; text = "Enable done button"; ObjectID = "krs-AY-jiq"; */
+"krs-AY-jiq.text" = "Enable done button";
+
+/* Class = "UILabel"; text = "Bot Key:"; ObjectID = "lS8-W8-0hC"; */
+"lS8-W8-0hC.text" = "Bot Key:";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "ycg-pU-GPX"; */
+"ycg-pU-GPX.normalTitle" = "Change";
