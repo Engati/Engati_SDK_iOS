@@ -1,6 +1,0 @@
-framework module Pods_EngatiSampleApp {
-  umbrella header "Pods-EngatiSampleApp-umbrella.h"
-
-  export *
-  module * { export * }
-}
