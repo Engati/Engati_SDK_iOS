@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "EngatiChat"
-  s.version      = "1.4.1"
+  s.version      = "1.4.3"
   s.summary      = "iOS Chat client for engati"
   #s.description  = <<-DESC
   #                  DESC
@@ -22,7 +22,8 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.swift_version = '5.0'
   s.ios.deployment_target = "10.0"
-  s.source       = { :type => "zip", :http => "https://branding-resources.s3.ap-south-1.amazonaws.com/bot-sdk/iOS/1.4.1/EngatiChat.framework.zip" }
+  s.source       = { :type => "zip", :http =>
+  "https://github.com/Engati/Engati_SDK_iOS/raw/master/Framework/EngatiChat.framework.zip" }
 
   s.preserve_paths = 'EngatiChat.framework'
   s.ios.vendored_frameworks = 'EngatiChat.framework'

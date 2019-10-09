@@ -2,7 +2,7 @@ PODS:
   - Alamofire (5.0.0-beta.7)
   - AlamofireImage (4.0.0-beta.4):
     - Alamofire (~> 5.0.0-beta.7)
-  - EngatiChat (1.4.2):
+  - EngatiChat (1.4.3):
     - Alamofire (<= 5.0.0-beta.7)
     - AlamofireImage (>= 4.0.0-beta.3)
     - Kingfisher
@@ -29,7 +29,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: bd07938ceecad59d2492aeecb1f785a8f2721160
   AlamofireImage: 7eaf65bbb346d299515ba3daba4f723c12e01d5e
-  EngatiChat: 006dd36738b249f9532bbea7031a22a0c1d1fc74
+  EngatiChat: 7c583b0730de476801730b6d720080b48ca1bc76
   Kingfisher: 3adc15096595f5aed800bb0d5cb757fc58b2d2dd
   Socket.IO-Client-Swift: 7cb44c0ffb86e158cee32d0642d30ec5fdcf8f61
   Starscream: 08172b481e145289c4930cb567230fb55897cfa4
