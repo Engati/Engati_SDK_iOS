@@ -18,8 +18,8 @@ Note down down bot_key, bot_name and branding_key from that initialization scrip
 <b>02</b>
 Initialize using pod
 
-Add following to podfile
-pod 'EngatiChat'
+Add following to podfile<br>
+<b>pod 'EngatiChat'<b/>
 
 And then
 pod install
