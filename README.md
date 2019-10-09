@@ -9,6 +9,8 @@ Click on the Website chatbot tab, where you will get to see Website widget  scri
 Initialization script will be like following:
 
 <br>
+<img src="https://github.com/Engati/Engati_SDK_iOS/raw/Images/portal.png"></img>
+<br>
 <br>
 EngtChat.init({"bot_key": "<bot_key>", "e":"p", "bot_name":"<bot_name>","welcome_msg":true, "branding_key":"<branding_key>" });
 
