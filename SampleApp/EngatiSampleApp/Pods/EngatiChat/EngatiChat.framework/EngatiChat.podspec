@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.ios.deployment_target = "10.0"
   s.source       = { :type => "zip", :http =>
-  "https://github.com/Engati/Engati_SDK_iOS/raw/master/Framework/EngatiChat.framework.zip" }
+  "https://github.com/Engati/Engati_SDK_iOS/raw/1.4.3/EngatiChat.framework.zip" }
 
   s.preserve_paths = 'EngatiChat.framework'
   s.ios.vendored_frameworks = 'EngatiChat.framework'
