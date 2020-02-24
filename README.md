@@ -72,6 +72,9 @@ cvc?.view.removeFromSuperview()
 cvc?.removeFromParent()
 
 
+To clear all engati related cache from your app:
+EngatiCacheManager.shared.clearCache()
+
 
 Note: If you are serving images or media content(any of path node or carousel image) from non secure source(non https) then please add following to application’s info.plist file:
 
