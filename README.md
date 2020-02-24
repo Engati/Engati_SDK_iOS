@@ -72,7 +72,7 @@ cvc?.view.removeFromSuperview()
 cvc?.removeFromParent()
 
 
-To clear all engati related cache from your app:
+<b>To clear all engati related cache from your app: </b><br>
 EngatiCacheManager.shared.clearCache()
 
 
